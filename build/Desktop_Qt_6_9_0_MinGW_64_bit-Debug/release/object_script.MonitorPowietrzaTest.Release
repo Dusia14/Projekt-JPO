@@ -1,0 +1,11 @@
+release/BazaDanych.o
+release/CzujnikPomiarowy.o
+release/IndeksJakosci.o
+release/KlientAPI.o
+release/Pomiar.o
+release/StacjaPomiarowa.o
+release/BazaDanychTest.o
+release/CzujnikPomiarowyTest.o
+release/PomiarTest.o
+release/StacjaPomiarowaTest.o
+release/main_test.o

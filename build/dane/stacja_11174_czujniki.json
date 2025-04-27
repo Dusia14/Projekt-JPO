@@ -1,0 +1,42 @@
+[
+    {
+        "id": 19716,
+        "idParametru": 1,
+        "idStacji": 11174,
+        "kodParametru": "SO2",
+        "nazwaParametru": "dwutlenek siarki",
+        "symbolParametru": "SO2"
+    },
+    {
+        "id": 19718,
+        "idParametru": 5,
+        "idStacji": 11174,
+        "kodParametru": "O3",
+        "nazwaParametru": "ozon",
+        "symbolParametru": "O3"
+    },
+    {
+        "id": 19719,
+        "idParametru": 6,
+        "idStacji": 11174,
+        "kodParametru": "NO2",
+        "nazwaParametru": "dwutlenek azotu",
+        "symbolParametru": "NO2"
+    },
+    {
+        "id": 25908,
+        "idParametru": 3,
+        "idStacji": 11174,
+        "kodParametru": "PM10",
+        "nazwaParametru": "pył zawieszony PM10",
+        "symbolParametru": "PM10"
+    },
+    {
+        "id": 25909,
+        "idParametru": 69,
+        "idStacji": 11174,
+        "kodParametru": "PM2.5",
+        "nazwaParametru": "pył zawieszony PM2.5",
+        "symbolParametru": "PM2.5"
+    }
+]

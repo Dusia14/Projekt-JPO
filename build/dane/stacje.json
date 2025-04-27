@@ -1,0 +1,1892 @@
+[
+    {
+        "dlugoscGeo": 22.984686,
+        "id": 11916,
+        "miasto": "Augustów",
+        "nazwaStacji": "Augustów, Uzdrowisko",
+        "szerokoscGeo": 53.85255,
+        "ulica": "",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 20.791912,
+        "id": 460,
+        "miasto": "Belsk Duży",
+        "nazwaStacji": "Belsk Duży, IGF PAN",
+        "szerokoscGeo": 51.835242,
+        "ulica": "Osiedle PAN 1",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 23.149389,
+        "id": 236,
+        "miasto": "Biała Podlaska",
+        "nazwaStacji": "Biała Podlaska, ul. Orzechowa",
+        "szerokoscGeo": 52.029194,
+        "ulica": "ul. Orzechowa",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 23.181744,
+        "id": 609,
+        "miasto": "Białystok",
+        "nazwaStacji": "Białystok, ul. Warszawska",
+        "szerokoscGeo": 53.129306,
+        "ulica": "ul. Warszawska 75 A",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 23.216322,
+        "id": 11174,
+        "miasto": "Białystok",
+        "nazwaStacji": "Białystok, ul. 42 Pułku Piechoty",
+        "szerokoscGeo": 53.144122,
+        "ulica": "ul. 42 Pułku Piechoty 117",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 23.161325,
+        "id": 11814,
+        "miasto": "Białystok",
+        "nazwaStacji": "Białystok, al.Piłsudskiego",
+        "szerokoscGeo": 53.135286,
+        "ulica": "Al. Józefa Piłsudskiego 34",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 23.108054,
+        "id": 17658,
+        "miasto": "Białystok",
+        "nazwaStacji": "Białystok, ul. Upalna",
+        "szerokoscGeo": 53.129601,
+        "ulica": "ul. Upalna 26",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 19.027318,
+        "id": 789,
+        "miasto": "Bielsko-Biała",
+        "nazwaStacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+        "szerokoscGeo": 49.813464,
+        "ulica": "ul. Kossak-Szczuckiej 19",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.04861,
+        "id": 10158,
+        "miasto": "Bielsko-Biała",
+        "nazwaStacji": "Bielsko-Biała, ul.Partyzantów",
+        "szerokoscGeo": 49.802075,
+        "ulica": "ul. Partyzantów",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.074187,
+        "id": 950,
+        "miasto": "Borówiec",
+        "nazwaStacji": "Borówiec, ul. Drapałka",
+        "szerokoscGeo": 52.27672,
+        "ulica": "ul. Drapałka 4",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 23.642153,
+        "id": 612,
+        "miasto": "Borsukowizna",
+        "nazwaStacji": "Borsukowizna, Szkółka Leśna",
+        "szerokoscGeo": 53.215492,
+        "ulica": "",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 17.462579,
+        "id": 16413,
+        "miasto": "Brzeg",
+        "nazwaStacji": "Brzeg, ul. Poprzeczna",
+        "szerokoscGeo": 50.849509,
+        "ulica": "ul. Poprzeczna 1",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.995708,
+        "id": 158,
+        "miasto": "Bydgoszcz",
+        "nazwaStacji": "Bydgoszcz, ul. Warszawska",
+        "szerokoscGeo": 53.134083,
+        "ulica": "ul. Warszawska 10",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.044164,
+        "id": 11576,
+        "miasto": "Bydgoszcz",
+        "nazwaStacji": "Bydgoszcz, ul. Jeździecka",
+        "szerokoscGeo": 53.175214,
+        "ulica": "ul. Jeździecka",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 17.49299,
+        "id": 16270,
+        "miasto": "Bytów",
+        "nazwaStacji": "Bytów, ul. Miła",
+        "szerokoscGeo": 54.1727,
+        "ulica": "Miła 17",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 23.473075,
+        "id": 11360,
+        "miasto": "Chełm",
+        "nazwaStacji": "Chełm, ul. Połaniecka",
+        "szerokoscGeo": 51.122147,
+        "ulica": "ul. Połaniecka",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 15.929804,
+        "id": 12056,
+        "miasto": "Chojnów",
+        "nazwaStacji": "Chojnów, ul. S. Małachowskiego ",
+        "szerokoscGeo": 51.27428,
+        "ulica": "S. Małachowskiego 7",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 20.602511,
+        "id": 20209,
+        "miasto": "Ciechanów",
+        "nazwaStacji": "Ciechanów, ul. Kraszewskiego",
+        "szerokoscGeo": 52.885541,
+        "ulica": "Kraszewskiego 8",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 18.780908,
+        "id": 164,
+        "miasto": "Ciechocinek",
+        "nazwaStacji": "Ciechocinek, ul. Tężniowa",
+        "szerokoscGeo": 52.888422,
+        "ulica": "ul. Tężniowa - Park Tężniowy",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.634075,
+        "id": 16406,
+        "miasto": "Cieszyn",
+        "nazwaStacji": "Cieszyn, ul. Chopina",
+        "szerokoscGeo": 49.755989,
+        "ulica": "ul. Chopina 37",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 15.31219,
+        "id": 11,
+        "miasto": "Czerniawa",
+        "nazwaStacji": "Czerniawa",
+        "szerokoscGeo": 50.912475,
+        "ulica": "ul. Strażacka 7",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.118997,
+        "id": 798,
+        "miasto": "Częstochowa",
+        "nazwaStacji": "Częstochowa, ul. AK/Jana Pawła II",
+        "szerokoscGeo": 50.817217,
+        "ulica": "ul. Armii Krajowej 2",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.130111,
+        "id": 800,
+        "miasto": "Częstochowa",
+        "nazwaStacji": "Częstochowa, ul. Baczyńskiego",
+        "szerokoscGeo": 50.836389,
+        "ulica": "ul. Baczyńskiego 2",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.231222,
+        "id": 805,
+        "miasto": "Dąbrowa Górnicza",
+        "nazwaStacji": "Dąbrowa Górnicza, ul. Tysiąclecia",
+        "szerokoscGeo": 50.329111,
+        "ulica": "ul. Tysiąclecia 25 a",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.416256,
+        "id": 9173,
+        "miasto": "Dębica",
+        "nazwaStacji": "Dębica, ul.Grottgera",
+        "szerokoscGeo": 50.054786,
+        "ulica": "Grottgera 3",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 22.038056,
+        "id": 882,
+        "miasto": "Diabla Góra",
+        "nazwaStacji": "Diabla Góra, Puszcza Borecka",
+        "szerokoscGeo": 54.124819,
+        "ulica": "Diabla Góra",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 16.393311,
+        "id": 10093,
+        "miasto": "Duszniki-Zdrój",
+        "nazwaStacji": "Duszniki-Zdrój, ul. Sportowa",
+        "szerokoscGeo": 50.402561,
+        "ulica": "Sportowa",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 16.64805,
+        "id": 16,
+        "miasto": "Dzierżoniów",
+        "nazwaStacji": "Dzierżoniów, ul. Piłsudskiego",
+        "szerokoscGeo": 50.732817,
+        "ulica": "ul. Piłsudskiego 26",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.410942,
+        "id": 861,
+        "miasto": "Elbląg",
+        "nazwaStacji": "Elbląg, ul. Bażyńskiego",
+        "szerokoscGeo": 54.167847,
+        "ulica": "ul. Bażyńskiego 6",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 22.348338,
+        "id": 10005,
+        "miasto": "Ełk",
+        "nazwaStacji": "Ełk, ul. Piłsudskiego",
+        "szerokoscGeo": 53.828389,
+        "ulica": "ul. Piłsudskiego 27",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 19.233217,
+        "id": 291,
+        "miasto": "Gajew",
+        "nazwaStacji": "Gajew, Ujęcie Wody",
+        "szerokoscGeo": 52.143258,
+        "ulica": "Ujęcie wody",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 18.635267,
+        "id": 729,
+        "miasto": "Gdańsk",
+        "nazwaStacji": "Gdańsk, ul. Powstańców Warszawskich",
+        "szerokoscGeo": 54.353196,
+        "ulica": "ul. Powstańców Warszawskich",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.657332,
+        "id": 731,
+        "miasto": "Gdańsk",
+        "nazwaStacji": "Gdańsk, ul. Wyzwolenia",
+        "szerokoscGeo": 54.400788,
+        "ulica": "ul. Wyzwolenia",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.619766,
+        "id": 736,
+        "miasto": "Gdańsk",
+        "nazwaStacji": "Gdańsk, ul. Leczkowa",
+        "szerokoscGeo": 54.380139,
+        "ulica": "ul. Leczkowa",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.601559,
+        "id": 16180,
+        "miasto": "Gdańsk",
+        "nazwaStacji": "Gdańsk, Al. Grunwaldzka",
+        "szerokoscGeo": 54.380682,
+        "ulica": "al. Grunwaldzka 127",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.568819,
+        "id": 20347,
+        "miasto": "Gdańsk",
+        "nazwaStacji": "Gdańsk, ul. Lawendowe Wzgórze",
+        "szerokoscGeo": 54.328833,
+        "ulica": "Lawendowe Wzgórze",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.493331,
+        "id": 732,
+        "miasto": "Gdynia",
+        "nazwaStacji": "Gdynia, ul. Porębskiego",
+        "szerokoscGeo": 54.560836,
+        "ulica": "ul. Porębskiego",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 21.784858,
+        "id": 20447,
+        "miasto": "Giżycko",
+        "nazwaStacji": "Giżycko, ul. Wodociągowa",
+        "szerokoscGeo": 54.04321,
+        "ulica": "Wodociągowa",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 18.655736,
+        "id": 809,
+        "miasto": "Gliwice",
+        "nazwaStacji": "Gliwice, ul. Mewy",
+        "szerokoscGeo": 50.279481,
+        "ulica": "ul. Mewy 34",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.83051,
+        "id": 10018,
+        "miasto": "Głubczyce",
+        "nazwaStacji": "Głubczyce, ul. Ratuszowa",
+        "szerokoscGeo": 50.200778,
+        "ulica": "ul. Ratuszowa 9",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 22.307681,
+        "id": 870,
+        "miasto": "Gołdap",
+        "nazwaStacji": "Gołdap, ul. Jaćwieska",
+        "szerokoscGeo": 54.305908,
+        "ulica": "ul. Jaćwieska 17",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 15.228667,
+        "id": 361,
+        "miasto": "Gorzów Wielkopolski",
+        "nazwaStacji": "Gorzów Wlkp. ul. Kosynierów Gdyńskich",
+        "szerokoscGeo": 52.738214,
+        "ulica": "ul. Kosynierów Gdyńskich",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 20.454653,
+        "id": 466,
+        "miasto": "Granica",
+        "nazwaStacji": "Granica, KPN",
+        "szerokoscGeo": 52.285858,
+        "ulica": "Kampinoski Park Narodowy",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 18.762139,
+        "id": 142,
+        "miasto": "Grudziądz",
+        "nazwaStacji": "Grudziądz, ul. Piłsudskiego",
+        "szerokoscGeo": 53.49355,
+        "ulica": "ul. Piłsudskiego 51",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.241044,
+        "id": 143,
+        "miasto": "Inowrocław",
+        "nazwaStacji": "Inowrocław, ul. Solankowa",
+        "szerokoscGeo": 52.793122,
+        "ulica": "ul. Solankowa",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 21.454617,
+        "id": 638,
+        "miasto": "Jasło",
+        "nazwaStacji": "Jaslo, ul. Sikorskiego",
+        "szerokoscGeo": 49.744886,
+        "ulica": "Sikorskiego",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 18.607953,
+        "id": 11855,
+        "miasto": "Jastrzębie-Zdrój",
+        "nazwaStacji": "Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska",
+        "szerokoscGeo": 49.952544,
+        "ulica": "Aleja Józefa Piłsudskiego/Harcerska 3",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 15.765608,
+        "id": 9153,
+        "miasto": "Jelenia Góra",
+        "nazwaStacji": "Jelenia Góra, ul. Ogińskiego",
+        "szerokoscGeo": 50.913433,
+        "ulica": "ul. Ogińskiego 6",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.688367,
+        "id": 684,
+        "miasto": "Tarnobrzeg",
+        "nazwaStacji": "Tarnobrzeg, ul. Dąbrowskiej",
+        "szerokoscGeo": 50.575742,
+        "ulica": "Marii Dąbrowskiej",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 21.004167,
+        "id": 444,
+        "miasto": "Tarnów",
+        "nazwaStacji": "Tarnów, ul. Bitwy pod Studziankami",
+        "szerokoscGeo": 50.020169,
+        "ulica": "ul. Bitwy pod Studziankami",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.992578,
+        "id": 10120,
+        "miasto": "Tarnów",
+        "nazwaStacji": "Tarnów, ul. Ks. Romana Sitko",
+        "szerokoscGeo": 50.018253,
+        "ulica": "ul. Ks. Romana Sitko",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 23.421553,
+        "id": 20277,
+        "miasto": "Tomaszów Lubelski",
+        "nazwaStacji": "Tomaszów Lubelski, ul. Janusza Petera",
+        "szerokoscGeo": 50.444128,
+        "ulica": "Janusza Petera 7",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 18.605681,
+        "id": 145,
+        "miasto": "Toruń",
+        "nazwaStacji": "Toruń, ul. Wały gen. Sikorskiego",
+        "szerokoscGeo": 53.012475,
+        "ulica": "ul. Wały Gen. Sikorskiego 12",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.666103,
+        "id": 206,
+        "miasto": "Toruń",
+        "nazwaStacji": "Toruń, ul. Dziewulskiego",
+        "szerokoscGeo": 53.028647,
+        "ulica": "ul. Dziewulskiego 1",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.612808,
+        "id": 208,
+        "miasto": "Toruń",
+        "nazwaStacji": "Toruń, ul. Przy Kaszowniku",
+        "szerokoscGeo": 53.017628,
+        "ulica": "ul. Przy Kaszowniku",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 19.477464,
+        "id": 449,
+        "miasto": "Trzebinia",
+        "nazwaStacji": "Trzebinia, os. Związku Walki Młodych",
+        "szerokoscGeo": 50.159406,
+        "ulica": "os. Widokowe (dawne os. ZWM)",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.071367,
+        "id": 11934,
+        "miasto": "Trzebnica",
+        "nazwaStacji": "Trzebnica, ul. 3 Maja",
+        "szerokoscGeo": 51.304817,
+        "ulica": "ul. 3 Maja",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 18.990236,
+        "id": 841,
+        "miasto": "Tychy",
+        "nazwaStacji": "Tychy, ul. Tołstoja",
+        "szerokoscGeo": 50.099903,
+        "ulica": "ul. Tołstoja 1",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 18.826722,
+        "id": 842,
+        "miasto": "Ustroń",
+        "nazwaStacji": "Ustroń, ul. Sanatoryjna",
+        "szerokoscGeo": 49.719731,
+        "ulica": "ul. Sanatoryjna 7",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.178087,
+        "id": 17118,
+        "miasto": "Uście Gorlickie Wysowa",
+        "nazwaStacji": "Wysowa-Zdrój, Park Zdrojowy",
+        "szerokoscGeo": 49.440175,
+        "ulica": "Wysowa",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 16.269677,
+        "id": 109,
+        "miasto": "Wałbrzych",
+        "nazwaStacji": "Wałbrzych, ul. Wysockiego",
+        "szerokoscGeo": 50.768729,
+        "ulica": "ul. Wysockiego 11",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.004724,
+        "id": 530,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, al. Niepodległości",
+        "szerokoscGeo": 52.219298,
+        "ulica": "al. Niepodległości 227/233",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 20.933018,
+        "id": 538,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, ul. Tołstoja",
+        "szerokoscGeo": 52.285073,
+        "ulica": "ul. Tołstoja 2",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 21.033819,
+        "id": 550,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, ul. Wokalna",
+        "szerokoscGeo": 52.160772,
+        "ulica": "ul. Wokalna 1",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 21.042458,
+        "id": 552,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, ul. Kondratowicza",
+        "szerokoscGeo": 52.290864,
+        "ulica": "ul. Kondratowicza 8",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 20.906073,
+        "id": 10955,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, ul. Chrościckiego",
+        "szerokoscGeo": 52.207742,
+        "ulica": "ul. Chrościckiego 16/18",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 21.176233,
+        "id": 10956,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, ul. Bajkowa",
+        "szerokoscGeo": 52.188474,
+        "ulica": "ul. Bajkowa 17/21",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 20.963383,
+        "id": 16533,
+        "miasto": "Warszawa",
+        "nazwaStacji": "Warszawa, IMGW",
+        "szerokoscGeo": 52.281304,
+        "ulica": "ul. Podleśna 61",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 14.382245,
+        "id": 961,
+        "miasto": "Widuchowa",
+        "nazwaStacji": "Widuchowa",
+        "szerokoscGeo": 53.122325,
+        "ulica": "ul. Bulwary Rybackie 1",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 22.598608,
+        "id": 282,
+        "miasto": "Wilczopole",
+        "nazwaStacji": "Wilczopole",
+        "szerokoscGeo": 51.163542,
+        "ulica": "",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 19.059314,
+        "id": 225,
+        "miasto": "Włocławek",
+        "nazwaStacji": "Włocławek, ul. Okrzei",
+        "szerokoscGeo": 52.658467,
+        "ulica": "ul. Okrzei",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 19.044486,
+        "id": 9791,
+        "miasto": "Włocławek",
+        "nazwaStacji": "Włocławek, ul. Kaliska",
+        "szerokoscGeo": 52.637394,
+        "ulica": "ul. Kaliska 108 A",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.455548,
+        "id": 845,
+        "miasto": "Wodzisław Śląski",
+        "nazwaStacji": "Wodzisław Śląski, ul. Gałczyńskiego",
+        "szerokoscGeo": 50.007629,
+        "ulica": "ul. Gałczyńskiego 1",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.141125,
+        "id": 114,
+        "miasto": "Wrocław",
+        "nazwaStacji": "Wrocław, ul. Bartnicza",
+        "szerokoscGeo": 51.115933,
+        "ulica": "ul. Bartnicza",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.02925,
+        "id": 117,
+        "miasto": "Wrocław",
+        "nazwaStacji": "Wrocław, wyb. Conrada-Korzeniowskiego",
+        "szerokoscGeo": 51.129378,
+        "ulica": "ul. Wyb. J.Conrada-Korzeniowskiego 18",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.012689,
+        "id": 129,
+        "miasto": "Wrocław",
+        "nazwaStacji": "Wrocław, al. Wiśniowa",
+        "szerokoscGeo": 51.086225,
+        "ulica": "al. Wiśniowa/ul. Powst. Śląskich",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 16.3175,
+        "id": 379,
+        "miasto": "Wschowa",
+        "nazwaStacji": "Wschowa ul. Kazimierza Wielkiego",
+        "szerokoscGeo": 51.799722,
+        "ulica": "ul. Kazimierza Wielkiego",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 18.771258,
+        "id": 17880,
+        "miasto": "Zabrze",
+        "nazwaStacji": "Zabrze, ul. M. Skłodowskiej-Curie",
+        "szerokoscGeo": 50.317072,
+        "ulica": "ul. M. Skłodowskiej-Curie 34",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.960083,
+        "id": 459,
+        "miasto": "Zakopane",
+        "nazwaStacji": "Zakopane, ul. Sienkiewicza",
+        "szerokoscGeo": 49.293564,
+        "ulica": "ul. Sienkiewicza",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 23.290247,
+        "id": 285,
+        "miasto": "Zamość",
+        "nazwaStacji": "Zamość, ul. Hrubieszowska",
+        "szerokoscGeo": 50.716628,
+        "ulica": "ul. Hrubieszowska 69A",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 19.439012,
+        "id": 11455,
+        "miasto": "Zawiercie",
+        "nazwaStacji": "Zawiercie, ul. K.I.Gałczyńskiego",
+        "szerokoscGeo": 50.493045,
+        "ulica": "ul. K.I.Gałczyńskiego 3",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 18.120739,
+        "id": 600,
+        "miasto": "Zdzieszowice",
+        "nazwaStacji": "Zdzieszowice, ul. Piastów",
+        "szerokoscGeo": 50.423533,
+        "ulica": "ul. Piastów 6",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 15.518861,
+        "id": 387,
+        "miasto": "Zielona Góra",
+        "nazwaStacji": "Zielona Góra ul. Krótka",
+        "szerokoscGeo": 51.939783,
+        "ulica": "ul. Krótka",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 15.481077,
+        "id": 11294,
+        "miasto": "Zielona Góra",
+        "nazwaStacji": "Zielona Góra,ul.Wyszyńskiego",
+        "szerokoscGeo": 51.936249,
+        "ulica": "Wyszyńskiego",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 17.934017,
+        "id": 232,
+        "miasto": "Zielonka",
+        "nazwaStacji": "Zielonka, Bory Tucholskie",
+        "szerokoscGeo": 53.662117,
+        "ulica": "Bory Tucholskie",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 19.458797,
+        "id": 853,
+        "miasto": "Złoty Potok",
+        "nazwaStacji": "Złoty Potok, Leśniczówka",
+        "szerokoscGeo": 50.710889,
+        "ulica": "Leśniczówka Kamienna Góra",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 15.127808,
+        "id": 382,
+        "miasto": "Żary",
+        "nazwaStacji": "Żary, ul. Szymanowskiego ",
+        "szerokoscGeo": 51.642656,
+        "ulica": "ul. Szymanowskiego 8",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 20.429892,
+        "id": 562,
+        "miasto": "Żyrardów",
+        "nazwaStacji": "Żyrardów, ul. Roosevelta",
+        "szerokoscGeo": 52.053811,
+        "ulica": "ul. Roosevelta 2",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 19.234446,
+        "id": 856,
+        "miasto": "Żywiec",
+        "nazwaStacji": "Żywiec, ul. Kopernika",
+        "szerokoscGeo": 49.671602,
+        "ulica": "ul. Kopernika 83 a",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.726833,
+        "id": 10119,
+        "miasto": "Kaszów",
+        "nazwaStacji": "Kaszów",
+        "szerokoscGeo": 50.025028,
+        "ulica": "Bory",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 16.999634,
+        "id": 10834,
+        "miasto": "Koziegłowy",
+        "nazwaStacji": "Koziegłowy, os.Leśne",
+        "szerokoscGeo": 52.449295,
+        "ulica": "osiedle Leśne 22",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 22.982861,
+        "id": 10874,
+        "miasto": "Florianka",
+        "nazwaStacji": "Florianka, RPN",
+        "szerokoscGeo": 50.551894,
+        "ulica": "",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 19.800639,
+        "id": 11434,
+        "miasto": "Zabierzów",
+        "nazwaStacji": "Zabierzów, ul. Wapienna",
+        "szerokoscGeo": 50.116028,
+        "ulica": "Wapienna",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.614057,
+        "id": 11754,
+        "miasto": "Gołuchów",
+        "nazwaStacji": "Gołuchów, Ujęcie Wody",
+        "szerokoscGeo": 50.621482,
+        "ulica": "Ujęcie Wody",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 21.081224,
+        "id": 12138,
+        "miasto": "Łagów",
+        "nazwaStacji": "Łagów, ul. Zapłotnia",
+        "szerokoscGeo": 50.778479,
+        "ulica": "ul. Zapłotnia 2",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 20.879581,
+        "id": 10817,
+        "miasto": "Złockie",
+        "nazwaStacji": "Złockie, szkoła podstawowa",
+        "szerokoscGeo": 49.374147,
+        "ulica": "Złockie 79",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 21.288167,
+        "id": 9913,
+        "miasto": "Guty Duże",
+        "nazwaStacji": "Guty Duże",
+        "szerokoscGeo": 52.943172,
+        "ulica": "Guty Duże 4",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 18.975594,
+        "id": 11457,
+        "miasto": "Goczałkowice-Zdrój",
+        "nazwaStacji": "Goczałkowice Zdrój, ul. Parkowa",
+        "szerokoscGeo": 49.93785,
+        "ulica": "ul. Parkowa",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.6451,
+        "id": 11358,
+        "miasto": "Biała",
+        "nazwaStacji": "Biała, ul. Kmicica",
+        "szerokoscGeo": 52.602534,
+        "ulica": "ul. Andrzeja Kmicica 33",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 16.865125,
+        "id": 16495,
+        "miasto": "Mosina",
+        "nazwaStacji": "Mosina, ul. Czereśniowa",
+        "szerokoscGeo": 52.241497,
+        "ulica": "ul. Czereśniowa 4",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 18.049063,
+        "id": 952,
+        "miasto": "Kalisz",
+        "nazwaStacji": "Kalisz, ul. Wyszyńskiego",
+        "szerokoscGeo": 51.74795,
+        "ulica": "ul. Wyszyńskiego",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 18.975028,
+        "id": 814,
+        "miasto": "Katowice",
+        "nazwaStacji": "Katowice, ul. Kossutha",
+        "szerokoscGeo": 50.264611,
+        "ulica": "ul. Kossutha 6",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.036217,
+        "id": 17318,
+        "miasto": "Katowice",
+        "nazwaStacji": "Katowice, ul. Dudy-Gracza",
+        "szerokoscGeo": 50.258483,
+        "ulica": "Jerzego Dudy-Gracza",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 18.236575,
+        "id": 568,
+        "miasto": "Kędzierzyn-Koźle",
+        "nazwaStacji": "Kędzierzyn-Koźle, ul. Śmiałego",
+        "szerokoscGeo": 50.349608,
+        "ulica": "ul. Bolesława Śmiałego 5",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.633692,
+        "id": 11195,
+        "miasto": "Kielce",
+        "nazwaStacji": "Kielce, ul. Targowa",
+        "szerokoscGeo": 50.878998,
+        "ulica": "ul. Targowa 3",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 20.642858,
+        "id": 16196,
+        "miasto": "Kielce",
+        "nazwaStacji": "Kielce, ul. Warszawska 108",
+        "szerokoscGeo": 50.886014,
+        "ulica": "ul. Warszawska 108",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 20.579965,
+        "id": 16497,
+        "miasto": "Kielce",
+        "nazwaStacji": "Kielce, ul. Jurajska",
+        "szerokoscGeo": 50.887606,
+        "ulica": "ul. Jurajska 7",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 18.207575,
+        "id": 577,
+        "miasto": "Kluczbork",
+        "nazwaStacji": "Kluczbork, ul. Mickiewicza",
+        "szerokoscGeo": 50.972181,
+        "ulica": "ul. Mickiewicza 10",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 16.65366,
+        "id": 38,
+        "miasto": "Kłodzko",
+        "nazwaStacji": "Kłodzko, ul. Szkolna",
+        "szerokoscGeo": 50.433493,
+        "ulica": "ul. Szkolna 8",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.769494,
+        "id": 20200,
+        "miasto": "Kolbuszowa",
+        "nazwaStacji": "Kolbuszowa, ul. Jana Pawła II",
+        "szerokoscGeo": 50.245897,
+        "ulica": "Jana Pawła II ",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 15.596347,
+        "id": 10934,
+        "miasto": "Kołobrzeg",
+        "nazwaStacji": "Kołobrzeg, ul. Żółkiewskiego",
+        "szerokoscGeo": 54.179381,
+        "ulica": "ul. Żółkiewskiego",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.684258,
+        "id": 190,
+        "miasto": "Koniczynka",
+        "nazwaStacji": "Koniczynka, Pojezierze Chełmińskie",
+        "szerokoscGeo": 53.080647,
+        "ulica": "Pojezierze Chełmińskie",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.268927,
+        "id": 902,
+        "miasto": "Konin",
+        "nazwaStacji": "Konin, ul. Wyszyńskiego",
+        "szerokoscGeo": 52.22565,
+        "ulica": "ul. Wyszyńskiego 3",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 21.124598,
+        "id": 16271,
+        "miasto": "Konstancin-Jeziorna",
+        "nazwaStacji": "Konstancin-Jeziorna, ul. Żeromskiego",
+        "szerokoscGeo": 52.082277,
+        "ulica": "ul. Żeromskiego",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 16.172544,
+        "id": 966,
+        "miasto": "Koszalin",
+        "nazwaStacji": "Koszalin, ul. Armii Krajowej",
+        "szerokoscGeo": 54.193986,
+        "ulica": "ul. Armii Krajowej",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 16.211672,
+        "id": 11336,
+        "miasto": "Koszalin",
+        "nazwaStacji": "Koszalin, ul. Chopina",
+        "szerokoscGeo": 54.194114,
+        "ulica": "ul. Chopina 42",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 17.975861,
+        "id": 740,
+        "miasto": "Kościerzyna",
+        "nazwaStacji": "Kościerzyna, ul. Targowa",
+        "szerokoscGeo": 54.120694,
+        "ulica": "ul. Targowa",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 19.926189,
+        "id": 400,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, Aleja Krasińskiego",
+        "szerokoscGeo": 50.057678,
+        "ulica": "al. Krasińskiego",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.949189,
+        "id": 401,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, ul. Bujaka",
+        "szerokoscGeo": 50.010575,
+        "ulica": "ul. Bujaka",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.053492,
+        "id": 402,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, ul. Bulwarowa",
+        "szerokoscGeo": 50.069308,
+        "ulica": "ul. Bulwarowa",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.895358,
+        "id": 10123,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, ul. Złoty Róg",
+        "szerokoscGeo": 50.081197,
+        "ulica": "Złoty Róg",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.018269,
+        "id": 10139,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, os. Piastów",
+        "szerokoscGeo": 50.098508,
+        "ulica": "os. Piastów",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.122561,
+        "id": 10447,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, os. Wadów",
+        "szerokoscGeo": 50.100569,
+        "ulica": "Wadów",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.936792,
+        "id": 11303,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, os. Swoszowice",
+        "szerokoscGeo": 49.991442,
+        "ulica": "Lusińska",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.97846,
+        "id": 16896,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, ul. Kamieńskiego",
+        "szerokoscGeo": 50.024605,
+        "ulica": "ul. Kamieńskiego",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.044386,
+        "id": 20367,
+        "miasto": "Kraków",
+        "nazwaStacji": "Kraków, ul. Półłanki",
+        "szerokoscGeo": 50.034702,
+        "ulica": "Półłanki 76",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.97477,
+        "id": 16913,
+        "miasto": "Krapkowice",
+        "nazwaStacji": "Krapkowice, ul. 3 Maja",
+        "szerokoscGeo": 50.486194,
+        "ulica": "ul. 3 Maja 17",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 21.498606,
+        "id": 9175,
+        "miasto": "Krempna",
+        "nazwaStacji": "Krempna, Ośrodek edukacyjno-muzealny MPN",
+        "szerokoscGeo": 49.511297,
+        "ulica": "59",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 21.7497,
+        "id": 646,
+        "miasto": "Krosno",
+        "nazwaStacji": "Krosno, ul. Kletówki",
+        "szerokoscGeo": 49.690169,
+        "ulica": "Kletówki",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 17.441263,
+        "id": 20307,
+        "miasto": "Krotoszyn",
+        "nazwaStacji": "Krotoszyn, ul. Olimpijska",
+        "szerokoscGeo": 51.697308,
+        "ulica": "Olimpijska 10",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.773175,
+        "id": 946,
+        "miasto": "Krzyżówka",
+        "nazwaStacji": "Piaski, Krzyżówka",
+        "szerokoscGeo": 52.501318,
+        "ulica": "Piaski 10",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.955928,
+        "id": 471,
+        "miasto": "Legionowo",
+        "nazwaStacji": "Legionowo, ul. Zegrzyńska",
+        "szerokoscGeo": 52.407578,
+        "ulica": "ul. Zegrzyńska 38",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 16.180513,
+        "id": 52,
+        "miasto": "Legnica",
+        "nazwaStacji": "Legnica, al. Rzeczypospolitej",
+        "szerokoscGeo": 51.204503,
+        "ulica": "al. Rzeczypospolitej 10/12",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.746194,
+        "id": 742,
+        "miasto": "Lębork",
+        "nazwaStacji": "Lębork, ul. Malczewskiego",
+        "szerokoscGeo": 54.546167,
+        "ulica": "ul. Malczewskiego",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 18.182972,
+        "id": 743,
+        "miasto": "Liniewko Kościerskie",
+        "nazwaStacji": "Liniewko Kościerskie",
+        "szerokoscGeo": 54.104111,
+        "ulica": "",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 15.298189,
+        "id": 20468,
+        "miasto": "Lubań",
+        "nazwaStacji": "Lubań, ul. Ludowa",
+        "szerokoscGeo": 51.120091,
+        "ulica": "Ludowa",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 22.569133,
+        "id": 266,
+        "miasto": "Lublin",
+        "nazwaStacji": "Lublin, ul. Obywatelska",
+        "szerokoscGeo": 51.259431,
+        "ulica": "ul. Obywatelska 13",
+        "wojewodztwo": "LUBELSKIE"
+    },
+    {
+        "dlugoscGeo": 18.682065,
+        "id": 11278,
+        "miasto": "Lubliniec",
+        "nazwaStacji": "Lubliniec, ul. ks. Szymały",
+        "szerokoscGeo": 50.675693,
+        "ulica": "ul. Ks. Płk. Jana Szymały 3",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 19.131433,
+        "id": 11554,
+        "miasto": "Łask",
+        "nazwaStacji": "Łask, ul. Narutowicza",
+        "szerokoscGeo": 51.589208,
+        "ulica": "ul. Narutowicza 28",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 17.534528,
+        "id": 750,
+        "miasto": "Łeba",
+        "nazwaStacji": "Łeba, IMGW",
+        "szerokoscGeo": 54.754139,
+        "ulica": "ul. Rąbka 1A",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 22.054381,
+        "id": 618,
+        "miasto": "Łomża",
+        "nazwaStacji": "Łomża, ul. Sikorskiego",
+        "szerokoscGeo": 53.181394,
+        "ulica": "ul. Sikorskiego 48/94",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 19.529786,
+        "id": 295,
+        "miasto": "Łódź",
+        "nazwaStacji": "Łódź, ul. Czernika",
+        "szerokoscGeo": 51.75805,
+        "ulica": "ul. Czernika 1/3",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 19.450992,
+        "id": 296,
+        "miasto": "Łódź",
+        "nazwaStacji": "Łódź, ul. Gdańska",
+        "szerokoscGeo": 51.775378,
+        "ulica": "ul. Gdańska 16",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 19.434925,
+        "id": 10058,
+        "miasto": "Łódź",
+        "nazwaStacji": "Łódź, al. Jana Pawła II",
+        "szerokoscGeo": 51.754613,
+        "ulica": "al. Jana Pawła II 15",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 19.032899,
+        "id": 741,
+        "miasto": "Malbork",
+        "nazwaStacji": "Malbork, ul. Mickiewicza",
+        "szerokoscGeo": 54.031247,
+        "ulica": "ul. Mickiewicza",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 20.266032,
+        "id": 10794,
+        "miasto": "Małogoszcz",
+        "nazwaStacji": "Małogoszcz, ul. Słoneczna",
+        "szerokoscGeo": 50.80961,
+        "ulica": "ul. Słoneczna 18",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 21.440942,
+        "id": 10438,
+        "miasto": "Mielec",
+        "nazwaStacji": "Mielec, ul. Biernackiego",
+        "szerokoscGeo": 50.299128,
+        "ulica": "Biernackiego",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 19.923591,
+        "id": 16753,
+        "miasto": "Myślenice",
+        "nazwaStacji": "Myślenice",
+        "szerokoscGeo": 49.831237,
+        "ulica": "Solidarności 6",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.212689,
+        "id": 455,
+        "miasto": "Niepołomice",
+        "nazwaStacji": "Niepołomice, ul. 3 Maja",
+        "szerokoscGeo": 50.035117,
+        "ulica": "ul. 3 Maja",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 22.112467,
+        "id": 659,
+        "miasto": "Nisko",
+        "nazwaStacji": "Nisko, ul. Szklarniowa",
+        "szerokoscGeo": 50.529892,
+        "ulica": "Szklarniowa",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 16.498245,
+        "id": 11254,
+        "miasto": "Nowa Ruda",
+        "nazwaStacji": "Nowa Ruda, ul. Jeziorna",
+        "szerokoscGeo": 50.581492,
+        "ulica": "ul. Jeziorna 19",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 15.708042,
+        "id": 16613,
+        "miasto": "Nowa Sól",
+        "nazwaStacji": "Nowa Sól",
+        "szerokoscGeo": 51.809103,
+        "ulica": "T. Kościuszki",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 20.533506,
+        "id": 769,
+        "miasto": "Nowiny",
+        "nazwaStacji": "Nowiny, ul. Parkowa",
+        "szerokoscGeo": 50.823108,
+        "ulica": "ul. Parkowa",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 20.714403,
+        "id": 426,
+        "miasto": "Nowy Sącz",
+        "nazwaStacji": "Nowy Sącz, ul. Nadbrzeżna",
+        "szerokoscGeo": 49.619281,
+        "ulica": "ul. Nadbrzeżna",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.034878,
+        "id": 16894,
+        "miasto": "Nowy Targ",
+        "nazwaStacji": "Nowy Targ, al. Tysiąclecia ",
+        "szerokoscGeo": 49.476675,
+        "ulica": "al. Tysiąclecia",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.331499,
+        "id": 20387,
+        "miasto": "Nysa",
+        "nazwaStacji": "Nysa, ul. Rodziewiczówny 1",
+        "szerokoscGeo": 50.460992,
+        "ulica": "ul. Rodziewiczówny 1",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 18.416878,
+        "id": 584,
+        "miasto": "Olesno",
+        "nazwaStacji": "Olesno, ul. Słowackiego",
+        "szerokoscGeo": 50.876983,
+        "ulica": "ul. Słowackiego",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.564044,
+        "id": 11301,
+        "miasto": "Olkusz",
+        "nazwaStacji": "Olkusz, ul. Cegielniana",
+        "szerokoscGeo": 50.284,
+        "ulica": " Cegielniana",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 20.486075,
+        "id": 877,
+        "miasto": "Olsztyn",
+        "nazwaStacji": "Olsztyn, ul. Puszkina",
+        "szerokoscGeo": 53.789233,
+        "ulica": "ul. Puszkina 16",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 17.291333,
+        "id": 70,
+        "miasto": "Oława",
+        "nazwaStacji": "Oława, ul. Żołnierzy Armii Krajowej",
+        "szerokoscGeo": 50.942073,
+        "ulica": "ul. Żołnierzy AK 9",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 17.950278,
+        "id": 590,
+        "miasto": "Opole",
+        "nazwaStacji": "Opole, os. Armii Krajowej",
+        "szerokoscGeo": 50.676856,
+        "ulica": "os. Armii Krajowej",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.899137,
+        "id": 10374,
+        "miasto": "Opole",
+        "nazwaStacji": "Opole, ul. Koszyka",
+        "szerokoscGeo": 50.666736,
+        "ulica": "ul. Koszyka 21",
+        "wojewodztwo": "OPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 15.431719,
+        "id": 74,
+        "miasto": "Osieczów",
+        "nazwaStacji": "Osieczów",
+        "szerokoscGeo": 51.31763,
+        "ulica": " ",
+        "wojewodztwo": "DOLNOŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.579322,
+        "id": 9114,
+        "miasto": "Ostrołęka",
+        "nazwaStacji": "Ostrołęka, ul. Hallera",
+        "szerokoscGeo": 53.083736,
+        "ulica": "ul. gen. J. Hallera 12",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 19.969041,
+        "id": 10030,
+        "miasto": "Ostróda",
+        "nazwaStacji": "Ostróda, ul. Piłsudskiego",
+        "szerokoscGeo": 53.694587,
+        "ulica": "Piłsudskiego 4",
+        "wojewodztwo": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+        "dlugoscGeo": 19.245275,
+        "id": 10814,
+        "miasto": "Oświęcim",
+        "nazwaStacji": "Oświęcim, ul. J. Bema",
+        "szerokoscGeo": 50.033083,
+        "ulica": "J. Bema",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 21.237297,
+        "id": 485,
+        "miasto": "Otwock",
+        "nazwaStacji": "Otwock, ul. Brzozowa",
+        "szerokoscGeo": 52.115725,
+        "ulica": "ul. Brzozowa 2",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 19.368683,
+        "id": 314,
+        "miasto": "Pabianice",
+        "nazwaStacji": "Pabianice, ul. Konstantynowska",
+        "szerokoscGeo": 51.667981,
+        "ulica": "ul. Konstantynowska",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 19.517556,
+        "id": 319,
+        "miasto": "Parzniewice",
+        "nazwaStacji": "Parzniewice, Ujęcie Wody",
+        "szerokoscGeo": 51.291175,
+        "ulica": "Ujęcie wody",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 20.837489,
+        "id": 488,
+        "miasto": "Piastów",
+        "nazwaStacji": "Piastów, ul. Pułaskiego",
+        "szerokoscGeo": 52.191728,
+        "ulica": "ul. Pułaskiego 6/8",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 16.759572,
+        "id": 920,
+        "miasto": "Piła",
+        "nazwaStacji": "Pila, ul. Kusocińskiego",
+        "szerokoscGeo": 53.154408,
+        "ulica": "ul. Kusocińskiego 10A",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.696956,
+        "id": 322,
+        "miasto": "Piotrków Trybunalski",
+        "nazwaStacji": "Piotrków Trybunalski, ul. Krakowskie Przedmieście",
+        "szerokoscGeo": 51.404406,
+        "ulica": "ul. Krakowskie Przedmieście 13",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 17.791106,
+        "id": 9218,
+        "miasto": "Pleszew",
+        "nazwaStacji": "Pleszew, Al. Mickiewicza",
+        "szerokoscGeo": 51.884922,
+        "ulica": "al. Mickiewicza",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 19.687672,
+        "id": 497,
+        "miasto": "Płock",
+        "nazwaStacji": "Płock, ul. Królowej Jadwigi",
+        "szerokoscGeo": 52.556279,
+        "ulica": "ul. Królowej Jadwigi 4",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 19.709791,
+        "id": 501,
+        "miasto": "Płock",
+        "nazwaStacji": "Płock, ul. Reja",
+        "szerokoscGeo": 52.550938,
+        "ulica": "ul. Mikołaja Reja 28",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 21.277367,
+        "id": 778,
+        "miasto": "Połaniec",
+        "nazwaStacji": "Połaniec, ul. Ruszczańska",
+        "szerokoscGeo": 50.429014,
+        "ulica": "ul. Ruszczańska 23",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 16.877289,
+        "id": 944,
+        "miasto": "Poznań",
+        "nazwaStacji": "Poznań, ul. Dąbrowskiego",
+        "szerokoscGeo": 52.420319,
+        "ulica": "ul. Dąbrowskiego 169",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 16.998053,
+        "id": 16493,
+        "miasto": "Poznań",
+        "nazwaStacji": "Poznań ul. Szwajcarska",
+        "szerokoscGeo": 52.390879,
+        "ulica": "ul. Szwajcarska",
+        "wojewodztwo": "WIELKOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 22.756239,
+        "id": 665,
+        "miasto": "Przemyśl",
+        "nazwaStacji": "Przemyśl, ul. Grunwaldzka",
+        "szerokoscGeo": 49.784339,
+        "ulica": "Grunwaldzka",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 19.966008,
+        "id": 10446,
+        "miasto": "Rabka-Zdrój",
+        "nazwaStacji": "Rabka-Zdrój, ul. Orkana",
+        "szerokoscGeo": 49.608647,
+        "ulica": "Orkana",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 18.216261,
+        "id": 11794,
+        "miasto": "Racibórz",
+        "nazwaStacji": "Racibórz, Wojska Polskiego",
+        "szerokoscGeo": 50.091142,
+        "ulica": "ul. Wojska Polskiego 8",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.147474,
+        "id": 515,
+        "miasto": "Radom",
+        "nazwaStacji": "Radom, ul. Tochtermana",
+        "szerokoscGeo": 51.399084,
+        "ulica": "ul. Tochtermana 1",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 19.448714,
+        "id": 331,
+        "miasto": "Radomsko",
+        "nazwaStacji": "Radomsko, ul. Rolna",
+        "szerokoscGeo": 51.067417,
+        "ulica": "ul. Rolna 2",
+        "wojewodztwo": "ŁÓDZKIE"
+    },
+    {
+        "dlugoscGeo": 18.516139,
+        "id": 834,
+        "miasto": "Rybnik",
+        "nazwaStacji": "Rybnik, ul. Borki",
+        "szerokoscGeo": 50.111181,
+        "ulica": "ul. Borki 37 d",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.851006,
+        "id": 10414,
+        "miasto": "Rymanów-Zdrój",
+        "nazwaStacji": "Rymanów Zdrój, ul. Parkowa",
+        "szerokoscGeo": 49.546539,
+        "ulica": "Parkowa 5",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 22.010575,
+        "id": 671,
+        "miasto": "Rzeszów",
+        "nazwaStacji": "Rzeszów, ul. Rejtana",
+        "szerokoscGeo": 50.024242,
+        "ulica": "Rejtana",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 22.004656,
+        "id": 10125,
+        "miasto": "Rzeszów",
+        "nazwaStacji": "Rzeszów, ul. Piłsudskiego",
+        "szerokoscGeo": 50.040675,
+        "ulica": "Piłsudskiego",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 21.980511,
+        "id": 17179,
+        "miasto": "Rzeszów",
+        "nazwaStacji": "Rzeszów, ul. Starzyńskiego",
+        "szerokoscGeo": 50.060381,
+        "ulica": "Starzyńskiego 17",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 21.992183,
+        "id": 20201,
+        "miasto": "Rzeszów",
+        "nazwaStacji": "Rzeszów, ul. Kwiatkowskiego",
+        "szerokoscGeo": 49.998408,
+        "ulica": "Kwiatkowskiego",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 22.195892,
+        "id": 678,
+        "miasto": "Sanok",
+        "nazwaStacji": "Sanok, ul. Sadowa",
+        "szerokoscGeo": 49.571731,
+        "ulica": "Sadowa",
+        "wojewodztwo": "PODKARPACKIE"
+    },
+    {
+        "dlugoscGeo": 22.282001,
+        "id": 517,
+        "miasto": "Siedlce",
+        "nazwaStacji": "Siedlce, ul. Konarskiego",
+        "szerokoscGeo": 52.172145,
+        "ulica": "ul. Konarskiego 11",
+        "wojewodztwo": "MAZOWIECKIE"
+    },
+    {
+        "dlugoscGeo": 20.891593,
+        "id": 17758,
+        "miasto": "Skarżysko-Kamienna",
+        "nazwaStacji": "Skarżysko-Kamienna, ul. 1 Maja",
+        "szerokoscGeo": 51.115842,
+        "ulica": "ul. 1 Maja 82",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 19.830422,
+        "id": 437,
+        "miasto": "Skawina",
+        "nazwaStacji": "Skawina, os. Ogrody",
+        "szerokoscGeo": 49.971047,
+        "ulica": "os. Ogrody",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 17.046722,
+        "id": 725,
+        "miasto": "Słupsk",
+        "nazwaStacji": "Słupsk, ul. Kniaziewicza",
+        "szerokoscGeo": 54.463611,
+        "ulica": "ul. Kniaziewicza 30",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 15.206667,
+        "id": 374,
+        "miasto": "Smolary Bytnickie",
+        "nazwaStacji": "Smolary Bytnickie",
+        "szerokoscGeo": 52.172222,
+        "ulica": "Smolary Bytnickie 45A",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 18.57884,
+        "id": 16242,
+        "miasto": "Sopot",
+        "nazwaStacji": "Sopot, ul. Bitwy Pod Płowcami",
+        "szerokoscGeo": 54.43451,
+        "ulica": "ul. Bitwy pod Płowcami",
+        "wojewodztwo": "POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 19.184399,
+        "id": 837,
+        "miasto": "Sosnowiec",
+        "nazwaStacji": "Sosnowiec, ul. Lubelska",
+        "szerokoscGeo": 50.285956,
+        "ulica": "ul. Lubelska 51",
+        "wojewodztwo": "ŚLĄSKIE"
+    },
+    {
+        "dlugoscGeo": 21.084175,
+        "id": 785,
+        "miasto": "Starachowice",
+        "nazwaStacji": "Starachowice, ul. Złota",
+        "szerokoscGeo": 51.050611,
+        "ulica": "ul. Złota",
+        "wojewodztwo": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+        "dlugoscGeo": 19.600339,
+        "id": 10124,
+        "miasto": "Sucha Beskidzka",
+        "nazwaStacji": "Sucha Beskidzka, ul. Nieszczyńskiej",
+        "szerokoscGeo": 49.743131,
+        "ulica": "ul. Nieszczyńskiej",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 15.63325,
+        "id": 16238,
+        "miasto": "Sulechów",
+        "nazwaStacji": "Sulechów, ul. Licealna",
+        "szerokoscGeo": 52.084833,
+        "ulica": "Licealna 10b",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 15.122444,
+        "id": 376,
+        "miasto": "Sulęcin",
+        "nazwaStacji": "Sulęcin ul. Dudka",
+        "szerokoscGeo": 52.437722,
+        "ulica": "ul. Dudka",
+        "wojewodztwo": "LUBUSKIE"
+    },
+    {
+        "dlugoscGeo": 22.938464,
+        "id": 11154,
+        "miasto": "Suwałki",
+        "nazwaStacji": "Suwałki, ul. Pułaskiego 26",
+        "szerokoscGeo": 54.115897,
+        "ulica": "ul. Pułaskiego 26",
+        "wojewodztwo": "PODLASKIE"
+    },
+    {
+        "dlugoscGeo": 20.259167,
+        "id": 9179,
+        "miasto": "Szarów",
+        "nazwaStacji": "Szarów, ul. Spokojna",
+        "szerokoscGeo": 50.0075,
+        "ulica": "ul. Spokojna",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 14.663347,
+        "id": 986,
+        "miasto": "Szczecin",
+        "nazwaStacji": "Szczecin, ul. Andrzejewskiego",
+        "szerokoscGeo": 53.380975,
+        "ulica": "ul. Andrzejewskiego 23",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 14.5539,
+        "id": 987,
+        "miasto": "Szczecin",
+        "nazwaStacji": "Szczecin, ul. Piłsudskiego",
+        "szerokoscGeo": 53.432169,
+        "ulica": "ul. Piłsudskiego 1",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 14.55625,
+        "id": 989,
+        "miasto": "Szczecin",
+        "nazwaStacji": "Szczecin, ul. Łączna",
+        "szerokoscGeo": 53.470889,
+        "ulica": "ul. Łączna",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 16.704556,
+        "id": 983,
+        "miasto": "Szczecinek",
+        "nazwaStacji": "Szczecinek, ul. Przemysłowa",
+        "szerokoscGeo": 53.698902,
+        "ulica": "ul. Przemysłowa 5",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    },
+    {
+        "dlugoscGeo": 21.116833,
+        "id": 443,
+        "miasto": "Szymbark",
+        "nazwaStacji": "Szymbark",
+        "szerokoscGeo": 49.633714,
+        "ulica": "Szymbark 430",
+        "wojewodztwo": "MAŁOPOLSKIE"
+    },
+    {
+        "dlugoscGeo": 18.428751,
+        "id": 12038,
+        "miasto": "Świecie",
+        "nazwaStacji": "Świecie, al. Jana Pawła II",
+        "szerokoscGeo": 53.40758,
+        "ulica": "al. Jana Pawła II 8",
+        "wojewodztwo": "KUJAWSKO-POMORSKIE"
+    },
+    {
+        "dlugoscGeo": 14.279628,
+        "id": 20160,
+        "miasto": "Świnoujście",
+        "nazwaStacji": "Świnoujście, ul. Białoruska",
+        "szerokoscGeo": 53.903814,
+        "ulica": "ul. Białoruska",
+        "wojewodztwo": "ZACHODNIOPOMORSKIE"
+    }
+]

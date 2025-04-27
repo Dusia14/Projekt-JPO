@@ -1,0 +1,42 @@
+[
+    {
+        "id": 949,
+        "idParametru": 10,
+        "idStacji": 156,
+        "kodParametru": "C6H6",
+        "nazwaParametru": "benzen",
+        "symbolParametru": "C6H6"
+    },
+    {
+        "id": 952,
+        "idParametru": 8,
+        "idStacji": 156,
+        "kodParametru": "CO",
+        "nazwaParametru": "tlenek węgla",
+        "symbolParametru": "CO"
+    },
+    {
+        "id": 959,
+        "idParametru": 6,
+        "idStacji": 156,
+        "kodParametru": "NO2",
+        "nazwaParametru": "dwutlenek azotu",
+        "symbolParametru": "NO2"
+    },
+    {
+        "id": 965,
+        "idParametru": 3,
+        "idStacji": 156,
+        "kodParametru": "PM10",
+        "nazwaParametru": "pył zawieszony PM10",
+        "symbolParametru": "PM10"
+    },
+    {
+        "id": 966,
+        "idParametru": 69,
+        "idStacji": 156,
+        "kodParametru": "PM2.5",
+        "nazwaParametru": "pył zawieszony PM2.5",
+        "symbolParametru": "PM2.5"
+    }
+]

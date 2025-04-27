@@ -1,0 +1,18 @@
+[
+    {
+        "id": 6085,
+        "idParametru": 3,
+        "idStacji": 944,
+        "kodParametru": "PM10",
+        "nazwaParametru": "pył zawieszony PM10",
+        "symbolParametru": "PM10"
+    },
+    {
+        "id": 20176,
+        "idParametru": 69,
+        "idStacji": 944,
+        "kodParametru": "PM2.5",
+        "nazwaParametru": "pył zawieszony PM2.5",
+        "symbolParametru": "PM2.5"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2239,
+        "idParametru": 8,
+        "idStacji": 322,
+        "kodParametru": "CO",
+        "nazwaParametru": "tlenek węgla",
+        "symbolParametru": "CO"
+    },
+    {
+        "id": 2242,
+        "idParametru": 6,
+        "idStacji": 322,
+        "kodParametru": "NO2",
+        "nazwaParametru": "dwutlenek azotu",
+        "symbolParametru": "NO2"
+    },
+    {
+        "id": 2244,
+        "idParametru": 5,
+        "idStacji": 322,
+        "kodParametru": "O3",
+        "nazwaParametru": "ozon",
+        "symbolParametru": "O3"
+    },
+    {
+        "id": 2245,
+        "idParametru": 3,
+        "idStacji": 322,
+        "kodParametru": "PM10",
+        "nazwaParametru": "pył zawieszony PM10",
+        "symbolParametru": "PM10"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 5228,
+        "idParametru": 8,
+        "idStacji": 798,
+        "kodParametru": "CO",
+        "nazwaParametru": "tlenek węgla",
+        "symbolParametru": "CO"
+    },
+    {
+        "id": 5230,
+        "idParametru": 6,
+        "idStacji": 798,
+        "kodParametru": "NO2",
+        "nazwaParametru": "dwutlenek azotu",
+        "symbolParametru": "NO2"
+    },
+    {
+        "id": 5232,
+        "idParametru": 3,
+        "idStacji": 798,
+        "kodParametru": "PM10",
+        "nazwaParametru": "pył zawieszony PM10",
+        "symbolParametru": "PM10"
+    }
+]
