@@ -1,0 +1,17 @@
+# Wymagania systemowe
+CMake 3.10+
+Kompilator C++ z obsługą C++17
+Qt 5.15+
+
+# Biblioteki C++
+libcurl-dev             # Dla zapytań HTTP
+nlohmann-json-dev       # Obsługa formatu JSON
+googletest              # Dla testów jednostkowych
+
+# Dla systemu Windows
+# Zaleca się użycie vcpkg do instalacji zależności:
+# vcpkg install curl:x64-windows
+# vcpkg install nlohmann-json:x64-windows
+# vcpkg install gtest:x64-windows
+
+# Qt można zainstalować ze strony https://www.qt.io/download
