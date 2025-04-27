@@ -1,0 +1,11 @@
+debug/test_bazadanych.o
+debug/test_czujnikpomiarowy.o
+debug/test_indeksjakosci.o
+debug/test_pomiar.o
+debug/test_stacjapomiarowa.o
+debug/BazaDanych.o
+debug/CzujnikPomiarowy.o
+debug/IndeksJakosci.o
+debug/KlientAPI.o
+debug/Pomiar.o
+debug/StacjaPomiarowa.o
