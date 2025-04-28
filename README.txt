@@ -27,15 +27,14 @@ Do poprawnego działania aplikacji potrzebne są:
 - Qt 5.15 lub nowszy
 - CURL dla obsługi zapytań HTTP
 - nlohmann/json dla obsługi formatu JSON
-- Google Test dla uruchamiania testów jednostkowych
 
 Szczegółowe zależności znajdują się w pliku requirements.txt.
 
 ## Kompilacja projektu
 1. Upewnij się, że masz zainstalowane wszystkie wymagane zależności.
 2. Utwórz katalog build: `mkdir build && cd build`
-3. Uruchom CMake: `cmake ..`
-4. Skompiluj projekt: `make` lub `cmake --build .`
+3. Uruchom QtCreator
+4. Skompiluj projekt
 
 ## Uruchamianie
 Po kompilacji, uruchom aplikację:
@@ -46,8 +45,7 @@ Po kompilacji, uruchom aplikację:
 ## Uruchamianie testów
 Aby uruchomić testy jednostkowe:
 ```
-cd build
-ctest
+Otworzyc projekt tests w Qt Creator 
 ```
 
 ## Struktura projektu
@@ -63,12 +61,6 @@ doxygen Doxyfile
 ```
 Dokumentacja zostanie wygenerowana w katalogu `doc/`.
 
-## Wzorce projektowe
-W projekcie wykorzystano następujące wzorce projektowe:
-- Singleton - dla klasy BazaDanych zapewniającej pojedynczą instancję bazy danych
-- Fasada - KlientAPI ukrywa złożoność komunikacji z API GIOŚ
-- Obserwator - do komunikacji między interfejsem a modelem danych
-- Repository - do zapisu i odczytu danych z lokalnej bazy
 
 ## Autor
 Klaudia Szczepankiewicz
